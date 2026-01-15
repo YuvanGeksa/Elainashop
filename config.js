@@ -13,10 +13,8 @@ const config = {
   },
 
   telegram: {
-    botToken: "8377663450:AAFXbsEUxvNmR_tALQZv-jQaRTyWrtSabYE",
-    ,
-    // Optional: isi dengan Telegram user ID owner (angka), contoh: [123456789]
-    ownerIds: [],
+    botToken: "8377663450:AAFXbsEUxvNmR_tALQZv-jQaRTyWrtSabYE",    // Optional: isi dengan Telegram user ID owner (angka), contoh: [123456789]
+    ownerIds: [8218627647],
   },
 
   pakasir: {
