@@ -8,7 +8,7 @@
 const config = {
   app: {
     botName: "Elaina - Store",
-    developerName: "YourNameHere",
+    developerName: "YuvanGeksa",
     currencyPrefix: "Rp ",
   },
 
